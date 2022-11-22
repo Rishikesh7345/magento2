@@ -29,21 +29,6 @@ However, for those who need a full-featured eCommerce solution, we recommend [Ad
 
 Our [Community](https://opensource.magento.com/) is large and diverse, and our project is enormous. As a contributor, you have countless opportunities to impact product development and delivery by introducing new features or improving existing ones, enhancing test coverage, updating documentation for [developers](https://devdocs.magento.com/) and [end-users](https://docs.magento.com/user-guide/), catching and fixing code bugs, suggesting points for optimization, and sharing your great ideas.
 
-- [Contribute to the code](https://devdocs.magento.com/contributor-guide/contributing.html)
-- [Report an issue](https://devdocs.magento.com/contributor-guide/contributing.html#report)
-- [Improve the developer documentation](https://github.com/magento/devdocs)
-- [Improve the end-user documentation](https://github.com/magento/merchdocs)
-- [Shape the future of Magento Open Source](https://developer.adobe.com/open/magento)
-
-### Maintainers
-
-We encourage experts from the Community to help us with GitHub routines such as accepting, merging, or rejecting pull requests and reviewing issues. Adobe has granted the Community Maintainers permission to accept, merge, and reject pull requests, as well as review issues. Thanks to invaluable input from the Community Maintainers team, we can significantly improve contribution quality and accelerate the time to deliver your updates to production. 
-
-- [Learn more about the Maintainer role](https://devdocs.magento.com/contributor-guide/maintainers.html)
-- [Maintainer's Handbook](https://devdocs.magento.com/contributor-guide/maintainer-handbook.html)
-
-[![](https://raw.githubusercontent.com/wiki/magento/magento2/images/maintainers.png)](https://magento.com/magento-contributors#maintainers)
-
 ### Leaders
 
 Adobe highly appreciates contributions that help us to improve the code, clarify the documentation, and increase test coverage. Check out our Community leaders, superstars, and superheroes on the [leaderboard](https://magento.biterg.io/app/kibana#/dashboard/41dc0c60-fa06-11eb-bbaa-dd6ca6f8fda8?_g=()).
